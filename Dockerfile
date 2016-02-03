@@ -1,5 +1,5 @@
-# FROM hypriot/rpi-alpine-scratch:v3.2
 FROM resin/rpi-raspbian:wheezy-20151216
+MAINTAINER Richard Tjerngren <richodemus@gmail.com>
 
 RUN mkdir /java
 
